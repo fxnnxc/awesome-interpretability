@@ -41,6 +41,7 @@ We collect materials related to the interpretability which is an emerging field 
 
 ### LessWrong & AI Alignment Forum
 
+* (**M**) Tiny Mech Interp Projects: Emergent Positional Embeddings of Words [[post](https://www.lesswrong.com/posts/Ln7D2aYgmPgjhpEeA/tiny-mech-interp-projects-emergent-positional-embeddings-of)]
 *  (**M**)  Inside the mind of a superhuman Go model: How does Leela Zero read ladders? [[post](https://www.lesswrong.com/posts/FF8i6SLfKb4g7C4EL/inside-the-mind-of-a-superhuman-go-model-how-does-leela-zero-2)]
 * (**M**)  A Mechanistic Interpretability Analysis of a GridWorld Agent-Simulator [[post](https://www.lesswrong.com/posts/JvQWbrbPjuvw4eqxv/a-mechanistic-interpretability-analysis-of-a-gridworld-agent)]
 *   (**M**) Singular Value Decompositions of Transformer Weight Matrices [[post](https://www.lesswrong.com/posts/mkbGjzxD8d8XqKHzA/the-singular-value-decompositions-of-transformer-weight)]
